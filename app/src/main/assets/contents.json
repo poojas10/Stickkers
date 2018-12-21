@@ -1,0 +1,223 @@
+{
+  "android_play_store_link": "",
+  "ios_app_store_link": "",
+  "sticker_packs": [
+
+    {
+      "identifier": "2",
+      "name": "For my panda",
+      "publisher": "Gokul",
+      "tray_image_file": "logo.png",
+      "publisher_email": "",
+      "publisher_website": "",
+      "privacy_policy_website": "",
+      "license_agreement_website": "",
+      "stickers": [
+        {
+          "image_file": "ffra.webp",
+          "emojis": [
+            "☕",
+            "🙂"
+          ]
+        },
+        {
+          "image_file": "ffrb.webp",
+          "emojis": [
+            "😄",
+            "😀"
+          ]
+        },
+        {
+          "image_file": "ffrc.webp",
+          "emojis": [
+            "😆",
+            "😂"
+          ]
+        },
+        {
+          "image_file": "ffrd.webp",
+          "emojis": [
+            "😩",
+            "😰"
+          ]
+        },
+        {
+          "image_file": "ffre.webp",
+          "emojis": [
+            "😭",
+            "💧"
+          ]
+        },
+        {
+          "image_file": "ffrf.webp",
+          "emojis": [
+            "😍",
+            "♥"
+          ]
+        },
+        {
+          "image_file": "ffrg.webp",
+          "emojis": [
+            "💔",
+            "👎"
+          ]
+        },
+        {
+          "image_file": "ffrh.webp",
+          "emojis": [
+            "😍",
+            "💑"
+          ]
+        },
+        {
+          "image_file": "ffri.webp",
+          "emojis": [
+            "😘",
+            "🍪"
+          ]
+        },
+        {
+          "image_file": "ffrj.webp",
+          "emojis": [
+            "🤔",
+            "😐"
+          ]
+        },
+        {
+          "image_file": "ffrk.webp",
+          "emojis": [
+            "😱",
+            "😵"
+          ]
+        },
+        {
+          "image_file": "ffrl.webp",
+          "emojis": [
+            "😡",
+            "😠"
+          ]
+        },
+        {
+          "image_file": "ffrm.webp",
+          "emojis": [
+            "❓",
+            "🤔"
+          ]
+        },
+        {
+          "image_file": "ffrn.webp",
+          "emojis": [
+            "🌈",
+            "😜"
+          ]
+        },
+        {
+          "image_file": "ffro.webp",
+          "emojis": [
+            "💻",
+            "😩"
+          ]
+        },
+        {
+          "image_file": "ffrp.webp",
+          "emojis": [
+            "😡",
+            "😤"
+          ]
+        },
+        {
+          "image_file": "ffrq.webp",
+          "emojis": [
+            "😩",
+            "😨"
+          ]
+        },
+        {
+          "image_file": "ffrr.webp",
+          "emojis": [
+            "💻",
+            "🌃"
+          ]
+        },
+        {
+          "image_file": "ffrs.webp",
+          "emojis": [
+            "🎉",
+            "✨"
+          ]
+        },
+        {
+          "image_file": "ffrt.webp",
+          "emojis": [
+            "🤮",
+            "👎"
+          ]
+        },
+        {
+          "image_file": "ffru.webp",
+          "emojis": [
+            "🖐",
+            "🙋"
+          ]
+        },
+        {
+          "image_file": "ffrv.webp",
+          "emojis": [
+            "🖐",
+            "👋"
+          ]
+        },
+        {
+          "image_file": "ffrw.webp",
+          "emojis": [
+            "🍵",
+            "😌"
+          ]
+        },
+        {
+          "image_file": "ffrx.webp",
+          "emojis": [
+            "📱",
+            "😦"
+          ]
+        },
+        {
+          "image_file": "ffry.webp",
+          "emojis": [
+            "🔋",
+            "😵"
+          ]
+        },
+        {
+          "image_file": "ffrz.webp",
+          "emojis": [
+            "🔋",
+            "😵"
+          ]
+        },
+        {
+          "image_file": "ffrzz.webp",
+          "emojis": [
+            "🔋",
+            "😵"
+          ]
+        },
+        {
+          "image_file": "ffrzzz.webp",
+          "emojis": [
+            "🔋",
+            "😵"
+          ]
+        },
+        {
+          "image_file": "ffrzzzz.webp",
+          "emojis": [
+            "🔋",
+            "😵"
+          ]
+        }
+      ]
+    }
+
+  ]
+}
