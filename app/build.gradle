@@ -65,9 +65,9 @@ private void checkApplicationIdInDebug() {
 task checkRelease {
     doLast {
         println("checkRelease")
-        if (android.defaultConfig.applicationId.startsWith("com.example")) {
-            throw new GradleException("applicationId in defaultConfig cannot start with com.example, please change your applicationId in app/build.gradle");
-        }
+   //     if (android.defaultConfig.applicationId.startsWith("com.example")) {
+   //         throw new GradleException("applicationId in defaultConfig cannot start with com.example, please change your applicationId in app/build.gradle");
+   //     }
     }
 }
 

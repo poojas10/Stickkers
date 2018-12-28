@@ -8,7 +8,7 @@
       "name": "For my panda",
       "publisher": "Gokul",
       "tray_image_file": "logo.png",
-      "publisher_email": "",
+      "publisher_email": "saigklkrishnan@gmail.com",
       "publisher_website": "",
       "privacy_policy_website": "",
       "license_agreement_website": "",
@@ -217,7 +217,212 @@
           ]
         }
       ]
-    }
+    },
 
-  ]
-}
+
+    {
+        "identifier": "1",
+        "name": "Moana",
+        "publisher": "Gokul",
+        "tray_image_file": "logo2.png",
+        "publisher_email": "saigklkrishnan@gmail.com",
+        "publisher_website": "",
+        "privacy_policy_website": "",
+        "license_agreement_website": "",
+        "stickers": [
+          {
+            "image_file": "moana1.webp",
+            "emojis": [
+              "☕",
+              "🙂"
+            ]
+          },
+          {
+            "image_file": "moana2.webp",
+            "emojis": [
+              "😄",
+              "😀"
+            ]
+          },
+          {
+            "image_file": "moana3.webp",
+            "emojis": [
+              "😆",
+              "😂"
+            ]
+          },
+          {
+            "image_file": "moana4.webp",
+            "emojis": [
+              "😩",
+              "😰"
+            ]
+          },
+          {
+            "image_file": "moana5.webp",
+            "emojis": [
+              "😭",
+              "💧"
+            ]
+          },
+          {
+            "image_file": "moana6.webp",
+            "emojis": [
+              "😍",
+              "♥"
+            ]
+          },
+          {
+            "image_file": "moana7.webp",
+            "emojis": [
+              "💔",
+              "👎"
+            ]
+          },
+          {
+            "image_file": "moana8.webp",
+            "emojis": [
+              "😍",
+              "💑"
+            ]
+          },
+          {
+            "image_file": "moana9.webp",
+            "emojis": [
+              "😘",
+              "🍪"
+            ]
+          },
+          {
+            "image_file": "moana10.webp",
+            "emojis": [
+              "🤔",
+              "😐"
+            ]
+          },
+          {
+            "image_file": "moana11.webp",
+            "emojis": [
+              "😱",
+              "😵"
+            ]
+          },
+          {
+            "image_file": "moana12.webp",
+            "emojis": [
+              "😡",
+              "😠"
+            ]
+          },
+          {
+            "image_file": "moana13.webp",
+            "emojis": [
+              "❓",
+              "🤔"
+            ]
+          },
+          {
+            "image_file": "moana14.webp",
+            "emojis": [
+              "🌈",
+              "😜"
+            ]
+          },
+          {
+            "image_file": "moana15.webp",
+            "emojis": [
+              "💻",
+              "😩"
+            ]
+          },
+          {
+            "image_file": "moana16.webp",
+            "emojis": [
+              "😡",
+              "😤"
+            ]
+          },
+          {
+            "image_file": "moana17.webp",
+            "emojis": [
+              "😩",
+              "😨"
+            ]
+          },
+          {
+            "image_file": "moana18.webp",
+            "emojis": [
+              "💻",
+              "🌃"
+            ]
+          },
+          {
+            "image_file": "moana19.webp",
+            "emojis": [
+              "🎉",
+              "✨"
+            ]
+          },
+          {
+            "image_file": "moana20.webp",
+            "emojis": [
+              "🤮",
+              "👎"
+            ]
+          },
+          {
+            "image_file": "moana21.webp",
+            "emojis": [
+              "🖐",
+              "🙋"
+            ]
+          },
+          {
+            "image_file": "moana22.webp",
+            "emojis": [
+              "🖐",
+              "👋"
+            ]
+          },
+          {
+            "image_file": "moana23.webp",
+            "emojis": [
+              "🍵",
+              "😌"
+            ]
+          },
+          {
+            "image_file": "moana24.webp",
+            "emojis": [
+              "📱",
+              "😦"
+            ]
+          },
+          {
+            "image_file": "moana25.webp",
+            "emojis": [
+              "🔋",
+              "😵"
+            ]
+          },
+          {
+            "image_file": "moana26.webp",
+            "emojis": [
+              "🔋",
+              "😵"
+            ]
+          },
+          {
+            "image_file": "moana27.webp",
+            "emojis": [
+              "🔋",
+              "😵"
+            ]
+          }
+
+        ]
+      }
+
+      ]
+
+  }
